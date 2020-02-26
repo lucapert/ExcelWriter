@@ -1,0 +1,7 @@
+C:\Users\luca\Desktop\ESEMPIxC#\ExcelWriter\ExcelWriter\bin\Debug\netcoreapp3.1\ExcelWriter.exe
+C:\Users\luca\Desktop\ESEMPIxC#\ExcelWriter\ExcelWriter\obj\Debug\netcoreapp3.1\ExcelWriter.csprojAssemblyReference.cache
+C:\Users\luca\Desktop\ESEMPIxC#\ExcelWriter\ExcelWriter\obj\Debug\netcoreapp3.1\ExcelWriter.AssemblyInfoInputs.cache
+C:\Users\luca\Desktop\ESEMPIxC#\ExcelWriter\ExcelWriter\obj\Debug\netcoreapp3.1\ExcelWriter.AssemblyInfo.cs
+C:\Users\luca\Desktop\ESEMPIxC#\ExcelWriter\ExcelWriter\bin\Debug\netcoreapp3.1\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\luca\Desktop\ESEMPIxC#\ExcelWriter\ExcelWriter\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\luca\Desktop\ESEMPIxC#\ExcelWriter\ExcelWriter\obj\Debug\netcoreapp3.1\ExcelWriter.csproj.CopyComplete
