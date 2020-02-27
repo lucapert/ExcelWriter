@@ -6,6 +6,8 @@ namespace ExcelWriter
     {
         static void Main(string[] args)
         {
+            ExcelWriter ex = new ExcelWriter();
+            ex.readXLS(@"./ExcelTemplate/TemplateTest.xlsx");
             
         }
     }
