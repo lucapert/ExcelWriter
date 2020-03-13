@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luca\\Desktop\\ESEMPIxC#\\ExcelWriter\\ExcelWriter\\ExcelWriter.csproj": {}
+    "C:\\WORK\\REPOExcelGen\\ExcelWriter\\ExcelWriter\\ExcelWriter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luca\\Desktop\\ESEMPIxC#\\ExcelWriter\\ExcelWriter\\ExcelWriter.csproj": {
+    "C:\\WORK\\REPOExcelGen\\ExcelWriter\\ExcelWriter\\ExcelWriter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luca\\Desktop\\ESEMPIxC#\\ExcelWriter\\ExcelWriter\\ExcelWriter.csproj",
+        "projectUniqueName": "C:\\WORK\\REPOExcelGen\\ExcelWriter\\ExcelWriter\\ExcelWriter.csproj",
         "projectName": "ExcelWriter",
-        "projectPath": "C:\\Users\\luca\\Desktop\\ESEMPIxC#\\ExcelWriter\\ExcelWriter\\ExcelWriter.csproj",
-        "packagesPath": "C:\\Users\\luca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luca\\Desktop\\ESEMPIxC#\\ExcelWriter\\ExcelWriter\\obj\\",
+        "projectPath": "C:\\WORK\\REPOExcelGen\\ExcelWriter\\ExcelWriter\\ExcelWriter.csproj",
+        "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
+        "outputPath": "C:\\WORK\\REPOExcelGen\\ExcelWriter\\ExcelWriter\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\luca\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Luca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
